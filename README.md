@@ -1,54 +1,26 @@
-# ringkasan-topik-penelitian
+# Tugas Riset Informatika
+**Nama        :** Raditya Punjul Wikantoro <br>
+**NPM         :** 20081010098 <br>
+**Kelas       :** C081
 
-1. Peningkatan Kecepatan dan Kinerja Website
- > Identifikasi Persoalan Praktis: 
-   Banyak pengguna meninggalkan sebuah website jika halaman website tidak 
-   dimuat dengan cepat. Kinerja yang buruk dapat mengakibatkan penurunan 
-   konversi dan kehilangan pengunjung.
+# Judul Penelitian
+**?**
 
- > Research Questions:
-   - Bagaimana kita dapat mengoptimalkan waktu muat halaman dan 
-     meningkatkan responsivitas website untuk mempertahankan pengunjung?
-   - Apa teknik terbaik untuk meminimalkan penggunaan sumber daya dan 
-     mengurangi latensi pada server dan klien?
+# Content
++ **Topik Penelitian (Ringkasan, Gap/Masalah, Tujuan)** <br><br>
++ **Metode Penelitian** <br><br>
++ **Referensi (Studi literatur, daftar pustaka)** <br><br>
++ **Dataset** <br><br>
++ **Kode Program** <br> <br>
++ **Analisis (Metriks pengujian)** <br><br>
 
- > Teori Terkait :
-   - Pengoptimalan performa dan caching pada tingkat klien dan server.
-   - Penggunaan teknologi kompresi dan teknik pengiriman konten yang 
-     efisien.
+# Dataset 
++ **Data Diabetes : s**
 
-2. Keamanan Website dan Perlindungan terhadap Serangan:
- > Identifikasi Persoalan Praktis:
-   Keamanan website menjadi krusial mengingat seringnya terjadi serangan 
-   siber seperti peretasan, pencurian data, dan deface website.
+# Reference
 
- > Research Questions:
-   - Bagaimana mengidentifikasi celah keamanan potensial dalam sebuah 
-     website dan menerapkan perlindungan yang efektif?
-   - Apa metode terbaik untuk mencegah serangan XSS (Cross-Site Scripting) 
-     dan SQL Injection pada website?
 
- > Teori Terkait:
-   - Pedoman aksesibilitas web dan standar (misalnya, WCAG - Web Content 
-     Accessibility Guidelines).
-   - Praktik desain inklusif dan pengembangan untuk kebutuhan aksesibilitas.
-     Ringkasan Topik
+# Summary Task
 
-3. Pembangunan Website Ramah Aksesibilitas (Accessibility):
- > Identifikasi Persoalan Praktis:
-   Banyak pengembang tidak memperhatikan aksesibilitas website untuk 
-   pengguna dengan disabilitas, menyebabkan mereka kesulitan mengakses dan 
-   menggunakan website.
 
- > Research Questions:
-   - Bagaimana mendesain dan mengembangkan website agar dapat diakses 
-     dengan baik oleh pengguna dengan berbagai tingkat kemampuan dan 
-     keterbatasan?
-   - Apa teknik yang paling efektif untuk memastikan aksesibilitas yang 
-     baik pada website?
-
- > Teori Terkait:
-   - Pedoman aksesibilitas web dan standar (misalnya, WCAG - Web Content 
-     Accessibility Guidelines).
-   - Praktik desain inklusif dan pengembangan untuk kebutuhan aksesibilitas.
-     
+# Draft Paper Publikasi
